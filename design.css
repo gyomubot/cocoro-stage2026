@@ -53,8 +53,3 @@ nav {
   border-radius:20px;
   transition: 0.3s;
 }
-
-pagechange a:hover {
-  background-color: #8faa96;
-  color: #f7f4ef
-}
