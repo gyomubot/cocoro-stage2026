@@ -24,6 +24,7 @@ h1{
 }
 
 .music-name a{
+  width: 100%;
   line-height: 1.5;
   display: block;
   color: #5f5f5f;
