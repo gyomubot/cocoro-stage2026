@@ -23,7 +23,7 @@ h1{
   color: #8faa96;
 }
 
-.menu a{
+.music-name a{
   line-height: 1.5;
   display: block;
   color: #5f5f5f;
@@ -33,7 +33,7 @@ h1{
   transition:0.3s;
 }
 
-.menu a:hover{
+.music-name a:hover{
   color: #8faa96;
   padding-left: 12px;
 }
