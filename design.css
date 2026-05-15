@@ -45,7 +45,7 @@ nav {
   flex-wrap: wrap;
 }
 
-nav a {
+.pagechange a {
   text-decoration: none;
   color: #8faa96;
   border: 1px solid #8faa96;
@@ -54,7 +54,7 @@ nav a {
   transition: 0.3s;
 }
 
-nav a:hover {
+pagechange a:hover {
   background-color: #8faa96;
   color: #f7f4ef
 }
