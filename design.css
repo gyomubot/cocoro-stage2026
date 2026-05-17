@@ -56,8 +56,8 @@ img {
 
 iframe {
   width: 100%;
-  height: 60vh;
-  border: 1px solid #ccc;
+  max-width: 100%;
+  display: block;
 }
 
 .label {
