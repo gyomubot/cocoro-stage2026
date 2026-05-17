@@ -56,8 +56,9 @@ img {
 
 iframe {
   width: 100%;
-  aspect-ratio: 16 / 9;
-  border: 1px solid #ccc
+  height: calc(100vw * 9 / 16); /* 画面幅から高さを計算 */
+  aspect-ratio: 16 / 9;         /* スライドの縦横比を維持 */
+  border: 1px solid #ccc;
   display: block;
 }
 
