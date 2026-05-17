@@ -54,6 +54,12 @@ img {
   border: 1px solid #ccc;
 }
 
+iframe {
+  width: 100%;
+  height: 60vh;
+  border: 1px solid #ccc;
+}
+
 .label {
   font-weight: bold;
   margin-bottom: 5px;
